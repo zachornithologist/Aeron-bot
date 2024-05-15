@@ -1,0 +1,494 @@
+{
+  "Northern Cardinal": {
+    "description": "The Northern Cardinal is a fairly large, long-tailed songbird with a short, very thick bill and a prominent crest. Cardinals often sit with a hunched-over posture and with the tail pointed straight down.",
+    "habitat": "Woodlands, gardens, shrublands, and urban areas.",
+    "diet": "Seeds, fruits, and insects.",
+    "nesting": "They typically build their nests in dense shrubs or small trees.",
+    "conservation_status": "Least Concern"
+  },
+  "American Robin": {
+    "description": "The American Robin is a large, gray-brown thrush with a rich rust-red breast, and a loud, clear cheer-up, cheerily song.",
+    "habitat": "Woodlands, gardens, parks, and lawns.",
+    "diet": "Primarily earthworms and insects, but they also eat berries and fruits.",
+    "nesting": "They build cup-shaped nests made of grass, twigs, and mud, often placed in the crotch of a tree or on a building ledge.",
+    "conservation_status": "Least Concern"
+  },
+  "Mallard": {
+    "description": "The Mallard is a large, dabbling duck with a long, broad bill and a distinctive iridescent-green patch on the wing.",
+    "habitat": "Lakes, ponds, rivers, marshes, and coastal habitats.",
+    "diet": "Mainly aquatic vegetation, insects, and small fish.",
+    "nesting": "They build nests lined with down, typically near water.",
+    "conservation_status": "Least Concern"
+  },
+  "Bald Eagle": {
+    "description": "The Bald Eagle is a large, powerful bird of prey with a white head and tail contrasting with a dark brown body. Bald Eagles have a wingspan of 6 to 7 feet.",
+    "habitat": "Near large bodies of open water such as lakes, rivers, marshes, and coastal areas.",
+    "diet": "Mainly fish, but they also prey on birds, mammals, and carrion.",
+    "nesting": "They build large nests, called eyries, in tall trees or on cliffs.",
+    "conservation_status": "Least Concern"
+  },
+  "Peregrine Falcon": {
+    "description": "The Peregrine Falcon is a large, powerful falcon with a blue-gray back, barred underparts, and a distinctive dark 'mustache' mark on its face.",
+    "habitat": "Cliffs, tall buildings, and urban areas.",
+    "diet": "Primarily birds, but they also prey on bats and insects.",
+    "nesting": "They often nest on cliff ledges or tall buildings, and sometimes use artificial nest boxes.",
+    "conservation_status": "Least Concern"
+  },
+  "Blue Jay": {
+    "description": "The Blue Jay is a strikingly colorful bird with bright blue upperparts, a white or light gray underbelly, and a black necklace across the throat and upper chest.",
+    "habitat": "Woodlands, parks, and suburban areas.",
+    "diet": "Mainly nuts, seeds, and insects, but they also eat small vertebrates and eggs.",
+    "nesting": "They build bulky cup-shaped nests in trees.",
+    "conservation_status": "Least Concern"
+  },
+  "American Crow": {
+    "description": "The American Crow is a large, all-black bird with a sturdy bill and a fan-shaped tail.",
+    "habitat": "Varied habitats including woodlands, fields, parks, and urban areas.",
+    "diet": "Omnivorous, feeding on insects, carrion, small vertebrates, seeds, and fruits.",
+    "nesting": "They build bulky nests made of sticks and twigs, often placed in tall trees.",
+    "conservation_status": "Least Concern"
+  },
+  "Ruby-throated Hummingbird": {
+    "description": "The Ruby-throated Hummingbird is a tiny bird with iridescent green upperparts and a bright ruby-red throat patch.",
+    "habitat": "Woodlands, gardens, and meadows.",
+    "diet": "Mainly nectar from flowers, supplemented with insects and spiders.",
+    "nesting": "They build cup-shaped nests made of plant material, bound together with spider silk, and camouflaged with lichens.",
+    "conservation_status": "Least Concern"
+  },
+  "Great Horned Owl": {
+    "description": "The Great Horned Owl is a large, widespread owl species with prominent ear tufts and piercing yellow eyes.",
+    "habitat": "Forests, open woodlands, deserts, and urban areas.",
+    "diet": "Varied, including mammals, birds, reptiles, amphibians, and large insects.",
+    "nesting": "They often use abandoned nests of other birds or nest in tree cavities.",
+    "conservation_status": "Least Concern"
+  },
+  "Downy Woodpecker": {
+    "description": "The Downy Woodpecker is a small woodpecker with black-and-white plumage and a short bill.",
+    "habitat": "Forests, woodlots, parks, and gardens.",
+    "diet": "Mainly insects, but they also eat seeds and berries.",
+    "nesting": "They excavate nest cavities in dead branches or tree trunks.",
+    "conservation_status": "Least Concern"
+  },
+  "Red-tailed Hawk": {
+    "description": "The Red-tailed Hawk is a large bird of prey with broad wings and a distinctive brick-red tail.",
+    "habitat": "Varied habitats including open country, woodlands, and urban areas.",
+    "diet": "Mainly small mammals, but they also prey on birds, reptiles, and carrion.",
+    "nesting": "They build bulky nests made of sticks, often placed in tall trees.",
+    "conservation_status": "Least Concern"
+  },
+  "American Goldfinch": {
+    "description": "The American Goldfinch is a small, brightly colored bird with a yellow body and black wings and cap.",
+    "habitat": "Fields, meadows, gardens, and woodland edges.",
+    "diet": "Mainly seeds, particularly from thistle and other composite plants.",
+    "nesting": "They build cup-shaped nests lined with plant down, often placed in shrubs or trees.",
+    "conservation_status": "Least Concern"
+  },
+  "Northern Mockingbird": {
+    "description": "The Northern Mockingbird is a medium-sized songbird with gray plumage and long tail feathers.",
+    "habitat": "Varied habitats including woodlands, parks, and urban areas.",
+    "diet": "Omnivorous, feeding on insects, fruits, and berries.",
+    "nesting": "They build cup-shaped nests made of twigs, grasses, and other plant materials.",
+    "conservation_status": "Least Concern"
+  },
+  "Canada Goose": {
+        "description": "The Canada Goose is a large waterfowl species with a black head and neck, white cheeks, and a brown body. It is known for its distinctive honking call and V-shaped flight formation.",
+        "habitat": "Lakes, ponds, rivers, marshes, and grassy fields.",
+        "diet": "Mainly grasses, sedges, and aquatic plants, but they also eat grains and agricultural crops.",
+        "nesting": "They build large nests made of grasses and lined with down, typically near water.",
+        "conservation_status": "Least Concern"
+    },
+  "Barn Owl": {
+        "description": "The Barn Owl is a medium-sized owl with a distinctive heart-shaped facial disc and pale plumage. It is known for its silent flight and nocturnal hunting habits.",
+        "habitat": "Open fields, grasslands, agricultural areas, and marshes.",
+        "diet": "Mainly rodents, but they also prey on small birds, insects, and reptiles.",
+        "nesting": "They often nest in barns, abandoned buildings, or cavities in trees, and do not build nests.",
+        "conservation_status": "Least Concern"
+    },
+
+    "Mourning Dove": {
+        "description": "The Mourning Dove is a medium-sized, slender dove with a gray-brown body, pinkish head, and long, pointed tail. It is known for its mournful cooing call.",
+        "habitat": "Woodlands, fields, urban areas, and parks.",
+        "diet": "Mainly seeds, grains, and fruits.",
+        "nesting": "They build flimsy nests made of twigs and grasses, often in trees or shrubs.",
+        "conservation_status": "Least Concern"
+    },
+    "Great Blue Heron": {
+        "description": "The Great Blue Heron is a large wading bird with a long neck, a dagger-like bill, and gray-blue plumage. It is known for its slow, deliberate movements and impressive hunting skills.",
+        "habitat": "Marshes, swamps, rivers, lakes, and coastal areas.",
+        "diet": "Mainly fish, but they also eat amphibians, reptiles, insects, and small mammals.",
+        "nesting": "They build large stick nests in trees, typically near water.",
+        "conservation_status": "Least Concern"
+    },
+  "Black-capped Chickadee": {
+        "description": "The Black-capped Chickadee is a small, non-migratory songbird with a black cap and bib, white cheeks, and grayish body. It is known for its cheerful chick-a-dee-dee-dee call.",
+        "habitat": "Woodlands, forests, parks, and suburban areas.",
+        "diet": "Mainly insects, seeds, and berries.",
+        "nesting": "They excavate cavities in trees or use old woodpecker nests for nesting.",
+        "conservation_status": "Least Concern"
+    },
+    "Belted Kingfisher": {
+        "description": "The Belted Kingfisher is a medium-sized bird with a shaggy crest, a blue-gray back, and a distinctive blue and white breast band. It is known for its rattling call and fishing prowess.",
+        "habitat": "Rivers, streams, lakes, ponds, and coastal areas.",
+        "diet": "Mainly fish, but they also eat crustaceans, insects, and small vertebrates.",
+        "nesting": "They excavate burrows in sandy or gravelly banks, often near water.",
+        "conservation_status": "Least Concern"
+    },
+  "Budgerigar": {
+        "scientific_name": "Melopsittacus undulatus",
+        "native_region": "Australia",
+        "description": "The Budgerigar, often simply called budgie, is the most common and widely kept species of parakeet.",
+        "plumage": "Vibrant green with yellow and black markings on the head and wings.",
+        "traits": ["Highly social", "Capable of mimicking human speech"],
+        "popularity_as_pet": "High"
+    },
+    "Monk Parakeet": {
+        "scientific_name": "Myiopsitta monachus",
+        "native_region": "South America",
+        "description": "The Monk Parakeet, also known as the Quaker Parrot, is native to South America but has established feral populations in many other parts of the world.",
+        "plumage": "Grayish-green with distinctive facial markings.",
+        "traits": ["Highly intelligent", "Social", "Nest-building behavior"],
+        "popularity_as_pet": "Moderate"
+    },
+    "Indian Ringneck Parakeet": {
+        "scientific_name": "Psittacula krameri",
+        "native_region": "Africa and Asia",
+        "description": "The Indian Ringneck Parakeet is native to parts of Africa and Asia, including the Indian subcontinent.",
+        "plumage": "Variety of colors including green, blue, yellow, and lutino.",
+        "traits": ["Talking ability", "Variety of colors"],
+        "popularity_as_pet": "High"
+    },
+    "Australian King Parrot": {
+        "scientific_name": "Alisterus scapularis",
+        "native_region": "Eastern Australia",
+        "description": "The Australian King Parrot is found in forests and woodlands of eastern Australia.",
+        "plumage": "Vibrant red and green in males, green in females.",
+        "traits": ["Gentle nature", "Beautiful plumage"],
+        "popularity_as_pet": "Moderate"
+    },
+    "Alexandrine Parakeet": {
+        "scientific_name": "Psittacula eupatria",
+        "native_region": "South and Southeast Asia",
+        "description": "The Alexandrine Parakeet is native to forests and woodlands of South and Southeast Asia.",
+        "plumage": "Green with distinctive red beaks and prominent neck rings.",
+        "traits": ["Large size", "Distinctive appearance"],
+        "popularity_as_pet": "Moderate"
+    },
+  "Bourke's Parrot": {
+        "scientific_name": "Neopsephotus bourkii",
+        "native_region": "Australia",
+        "description": "Bourke's Parrot is a small, colorful parakeet native to the arid regions of Australia.",
+        "plumage": "Soft pastel colors including pink, peach, and blue.",
+        "traits": ["Gentle disposition", "Quiet nature"],
+        "popularity_as_pet": "Moderate"
+    },
+    "Lineolated Parakeet": {
+        "scientific_name": "Bolborhynchus lineola",
+        "native_region": "Central and South America",
+        "description": "The Lineolated Parakeet, also known as the Linnie, is a small parakeet species native to the forests of Central and South America.",
+        "plumage": "Mainly green with dark lines or bars across the body.",
+        "traits": ["Quiet", "Docile", "Can be trained to talk"],
+        "popularity_as_pet": "Moderate"
+    },
+    "Rosy-faced Lovebird": {
+        "scientific_name": "Agapornis roseicollis",
+        "native_region": "Namibia, Angola, and South Africa",
+        "description": "The Rosy-faced Lovebird, also known as the Peach-faced Lovebird, is a small parrot native to arid regions of southwestern Africa.",
+        "plumage": "Green with a peach-colored face and throat.",
+        "traits": ["Highly social", "Affectionate", "Colorful plumage"],
+        "popularity_as_pet": "High"
+    },
+  "Green-cheeked Conure": {
+        "scientific_name": "Pyrrhura molinae",
+        "native_region": "South America",
+        "description": "The Green-cheeked Conure, also known as the Green-cheeked Parakeet, is native to South America.",
+        "plumage": "Mainly green with a red belly and blue primary feathers.",
+        "traits": ["Affectionate", "Playful", "Energetic"],
+        "popularity_as_pet": "High"
+    },
+  "Pacific Parrotlet": {
+        "scientific_name": "Forpus coelestis",
+        "native_region": "Central and South America",
+        "description": "The Pacific Parrotlet is one of the smallest parrot species, native to Central and South America.",
+        "plumage": "Varies from bright green to blue with yellow or green faces in males, duller in females.",
+        "traits": ["Curious", "Playful", "Intelligent"],
+        "popularity_as_pet": "Moderate"
+    },
+
+    "Burrowing Parakeet": {
+        "scientific_name": "Cyanoliseus patagonus",
+        "native_region": "South America",
+        "description": "The Burrowing Parakeet, also known as the Patagonian Conure, is native to the grasslands and scrublands of South America.",
+        "plumage": "Mainly green with a blue crown and red-orange belly.",
+        "traits": ["Social", "Nesting in burrows", "Vocal"],
+        "popularity_as_pet": "Moderate"
+    },
+    "Yellow-chevroned Parakeet": {
+        "scientific_name": "Brotogeris chiriri",
+        "native_region": "South America",
+        "description": "The Yellow-chevroned Parakeet is native to tropical South America, including parts of Brazil, Bolivia, and Paraguay.",
+        "plumage": "Mainly green with yellow patches on the wings and cheeks.",
+        "traits": ["Highly social", "Active", "Noisy"],
+        "popularity_as_pet": "High"
+    },
+    "Blue-winged Parrotlet": {
+        "scientific_name": "Forpus xanthopterygius",
+        "native_region": "South America",
+        "description": "The Blue-winged Parrotlet is native to the forests and woodlands of South America.",
+        "plumage": "Mainly green with blue wings and a yellow-green face.",
+        "traits": ["Small size", "Curious", "Active"],
+        "popularity_as_pet": "Moderate"
+    },
+    "Red-rumped Parrot": {
+        "scientific_name": "Psephotus haematonotus",
+        "native_region": "Australia",
+        "description": "The Red-rumped Parrot, also known as the Grass Parrot, is native to Australia.",
+        "plumage": "Green with a red rump and blue markings on the wings.",
+        "traits": ["Quiet", "Docile", "Suitable for aviaries"],
+        "popularity_as_pet": "Moderate"
+    },
+    "Spectacled Parrotlet": {
+        "scientific_name": "Forpus conspicillatus",
+        "native_region": "South America",
+        "description": "The Spectacled Parrotlet is native to the Andean foothills of South America.",
+        "plumage": "Mainly green with a blue crown and a distinct white eye-ring.",
+        "traits": ["Sociable", "Active", "Vocal"],
+        "popularity_as_pet": "Moderate"
+    },
+  "Princess Parrot": {
+        "scientific_name": "Polytelis alexandrae",
+        "native_region": "Australia",
+        "description": "The Princess Parrot is native to the arid regions of Australia.",
+        "plumage": "Soft pastel green with pink throat and belly, blue crown, and long tail feathers.",
+        "traits": ["Gentle", "Shy", "Beautiful plumage"],
+        "popularity_as_pet": "Moderate"
+    },
+  "Senegal Parrot": {
+        "scientific_name": "Poicephalus senegalus",
+        "native_region": "West Africa",
+        "description": "The Senegal Parrot is native to a wide range of habitats in West Africa.",
+        "plumage": "Mainly green with a gray head, yellow chest, and orange belly.",
+        "traits": ["Intelligent", "Affectionate", "Good talker"],
+        "popularity_as_pet": "High"
+    },
+    "Fischer's Lovebird": {
+        "scientific_name": "Agapornis fischeri",
+        "native_region": "East Africa",
+        "description": "Fischer's Lovebird is native to a small region in east-central Africa.",
+        "plumage": "Mainly green with orange face, chest, and upper back, and blue rump and tail.",
+        "traits": ["Active", "Playful", "Vocal"],
+        "popularity_as_pet": "High"
+    },
+
+    "Golden-mantled Racquet-tail": {
+        "scientific_name": "Prioniturus platurus",
+        "native_region": "Philippines",
+        "description": "The Golden-mantled Racquet-tail is native to the forests of the Philippines.",
+        "plumage": "Mainly green with a golden-yellow mantle on the back, and blue tail feathers.",
+        "traits": ["Energetic", "Playful", "Sociable"],
+        "popularity_as_pet": "Low"
+    },
+    "Turquoise Parrot": {
+        "scientific_name": "Neophema pulchella",
+        "native_region": "Australia",
+        "description": "The Turquoise Parrot is endemic to southeastern Australia.",
+        "plumage": "Mainly green with turquoise blue on the wings, rump, and tail.",
+        "traits": ["Gentle", "Shy", "Beautiful plumage"],
+        "popularity_as_pet": "Low"
+    },
+    "Orange-fronted Parakeet": {
+        "scientific_name": "Eupsittula canicularis",
+        "native_region": "Mexico and Central America",
+        "description": "The Orange-fronted Parakeet is found in Mexico and parts of Central America.",
+        "plumage": "Mainly green with an orange forehead and crown.",
+        "traits": ["Active", "Curious", "Social"],
+        "popularity_as_pet": "Low"
+    },
+    "Red-crowned Parakeet": {
+        "scientific_name": "Cyanoramphus novaezelandiae",
+        "native_region": "New Zealand",
+        "description": "The Red-crowned Parakeet is native to New Zealand, particularly in forested areas.",
+        "plumage": "Mainly green with a red crown, blue wings, and yellow underparts.",
+        "traits": ["Adaptable", "Intelligent", "Chatty"],
+        "popularity_as_pet": "Low"
+    },
+    "Sulphur-crested Parakeet": {
+        "scientific_name": "Psittacus erithacus",
+        "native_region": "New Guinea and Australia",
+        "description": "The Sulphur-crested Parakeet is native to New Guinea and parts of Australia.",
+        "plumage": "Mainly white with yellow crests and patches on the cheeks.",
+        "traits": ["Intelligent", "Vocal", "Social"],
+        "popularity_as_pet": "Low"
+    },
+
+    "Blue-crowned Hanging Parrot": {
+        "scientific_name": "Loriculus galgulus",
+        "native_region": "Southeast Asia",
+        "description": "The Blue-crowned Hanging Parrot is found in forests and woodlands across Southeast Asia.",
+        "plumage": "Mainly green with a blue crown and red beak.",
+        "traits": ["Small size", "Agile", "Feeds while hanging upside down"],
+        "popularity_as_pet": "Low"
+    },
+    "Scarlet-chested Parakeet": {
+        "scientific_name": "Neophema splendida",
+        "native_region": "Australia",
+        "description": "The Scarlet-chested Parakeet, also known as the Splendid Parrot, is native to central Australia.",
+        "plumage": "Mainly green with a scarlet chest, blue wings, and yellow belly.",
+        "traits": ["Colorful plumage", "Active", "Curious"],
+        "popularity_as_pet": "Low"
+    },
+    "Maroon-bellied Parakeet": {
+        "scientific_name": "Pyrrhura frontalis",
+        "native_region": "South America",
+        "description": "The Maroon-bellied Parakeet is native to forests of eastern Brazil.",
+        "plumage": "Mainly green with a maroon-colored belly and blue wing feathers.",
+        "traits": ["Sociable", "Playful", "Good talker"],
+        "popularity_as_pet": "Low"
+    },
+    "Black-winged Lovebird": {
+        "scientific_name": "Agapornis taranta",
+        "native_region": "Ethiopia",
+        "description": "The Black-winged Lovebird is native to the highlands of Ethiopia.",
+        "plumage": "Mainly green with black wings, red beak, and white eye ring.",
+        "traits": ["Affectionate", "Active", "Lively"],
+        "popularity_as_pet": "Low"
+    },
+    "Yellow-collared Lovebird": {
+        "scientific_name": "Agapornis personatus",
+        "native_region": "Tanzania",
+        "description": "The Yellow-collared Lovebird is native to northern Tanzania.",
+        "plumage": "Mainly green with a yellow collar and orange face.",
+        "traits": ["Energetic", "Sociable", "Good flyer"],
+        "popularity_as_pet": "Low"
+    },
+
+    "Violet Turaco": {
+        "scientific_name": "Musophaga violacea",
+        "native_region": "West Africa",
+        "description": "The Violet Turaco, also known as the Violaceous Plantain-eater, is native to the forests of West Africa.",
+        "plumage": "Mainly violet with red underwings, green back, and yellow beak.",
+        "traits": ["Distinctive coloration", "Crested head", "Fruit-eating habits"],
+        "popularity_as_pet": "Low"
+    },
+    "Blue-crowned Parakeet": {
+        "scientific_name": "Thectocercus acuticaudatus",
+        "native_region": "South America",
+        "description": "The Blue-crowned Parakeet is native to South America, particularly in Argentina and Paraguay.",
+        "plumage": "Mainly green with a blue crown and red-orange belly.",
+        "traits": ["Active", "Social", "Acrobatic fliers"],
+        "popularity_as_pet": "Low"
+    },
+    "Jenday Conure": {
+        "scientific_name": "Aratinga jandaya",
+        "native_region": "South America",
+        "description": "The Jenday Conure is native to northeastern Brazil.",
+        "plumage": "Mainly green with yellow head, orange cheeks, and blue wings.",
+        "traits": ["Lively", "Talkative", "Playful"],
+        "popularity_as_pet": "Moderate"
+    },
+    "Blue-headed Parrot": {
+        "scientific_name": "Pionus menstruus",
+        "native_region": "South America",
+        "description": "The Blue-headed Parrot is native to South America, particularly in the Amazon basin.",
+        "plumage": "Mainly green with a blue head, red undertail coverts, and maroon shoulder patches.",
+        "traits": ["Gentle disposition", "Quiet", "Good talker"],
+        "popularity_as_pet": "Moderate"
+    },
+    "Red-fan Parrot": {
+        "scientific_name": "Deroptyus accipitrinus",
+        "native_region": "South America",
+        "description": "The Red-fan Parrot, also known as the Hawk-headed Parrot, is native to the Amazon rainforest.",
+        "plumage": "Mainly green with a red or maroon fan-shaped crest and blue facial skin.",
+        "traits": ["Unique appearance", "Intelligent", "Vocal"],
+        "popularity_as_pet": "Low"
+    },
+
+    "Gouldian Finch": {
+        "scientific_name": "Erythrura gouldiae",
+        "native_region": "Australia",
+        "description": "The Gouldian Finch, also known as the Rainbow Finch, is native to northern Australia.",
+        "plumage": "Distinctive multicolored plumage with red, black, yellow, and green variations.",
+        "traits": ["Colorful plumage", "Social", "Hardy"],
+        "popularity_as_pet": "Moderate"
+    },
+    "Eastern Rosella": {
+        "scientific_name": "Platycercus eximius",
+        "native_region": "Australia",
+        "description": "The Eastern Rosella is native to southeastern Australia.",
+        "plumage": "Mainly red with white cheeks, blue patches on wings, and yellow underparts.",
+        "traits": ["Beautiful plumage", "Curious", "Active"],
+        "popularity_as_pet": "Moderate"
+    },
+    "Green-naped Lorikeet": {
+        "scientific_name": "Trichoglossus haematodus",
+        "native_region": "Indonesia and New Guinea",
+        "description": "The Green-naped Lorikeet is found in forests and woodlands of Indonesia and New Guinea.",
+        "plumage": "Mainly green with a red beak and blue nape.",
+        "traits": ["Energetic", "Playful", "Nectar feeding"],
+        "popularity_as_pet": "Low"
+    },
+    "Red-whiskered Bulbul": {
+        "scientific_name": "Pycnonotus jocosus",
+        "native_region": "Asia",
+        "description": "The Red-whiskered Bulbul is native to Asia, particularly in India and Sri Lanka.",
+        "plumage": "Brown upperparts, white underparts, red face patch, and black crest.",
+        "traits": ["Vocal", "Active", "Adaptable"],
+        "popularity_as_pet": "Low"
+    },
+    "Blue-gray Tanager": {
+        "scientific_name": "Thraupis episcopus",
+        "native_region": "South America",
+        "description": "The Blue-gray Tanager is found in forests and gardens of South America.",
+        "plumage": "Mainly blue-gray with paler underparts.",
+        "traits": ["Beautiful plumage", "Melodic song", "Forages in flocks"],
+        "popularity_as_pet": "Low"
+    },
+  
+    "Rainbow Lorikeet": {
+        "scientific_name": "Trichoglossus moluccanus",
+        "native_region": "Australia",
+        "description": "The Rainbow Lorikeet is native to Australia and is known for its vibrant plumage and playful behavior.",
+        "plumage": "Mainly green with a rainbow of colors on its head, chest, and wings.",
+        "traits": ["Colorful plumage", "Energetic", "Nectar feeding"],
+        "popularity_as_pet": "High"
+    },
+    "Scarlet Macaw": {
+        "scientific_name": "Ara macao",
+        "native_region": "Central and South America",
+        "description": "The Scarlet Macaw is one of the most iconic parrots, known for its brilliant red, yellow, and blue plumage.",
+        "plumage": "Vibrant red, yellow, and blue with a white face patch.",
+        "traits": ["Impressive size", "Intelligent", "Longevity"],
+        "popularity_as_pet": "Moderate"
+    },
+    "Cockatiel": {
+        "scientific_name": "Nymphicus hollandicus",
+        "native_region": "Australia",
+        "description": "The Cockatiel is a small, crested parrot native to Australia and prized for its friendly disposition and whistling abilities.",
+        "plumage": "Gray body with yellow face and crest markings.",
+        "traits": ["Affectionate", "Whistling ability", "Easy to train"],
+        "popularity_as_pet": "High"
+    },
+    "Crimson Rosella": {
+        "scientific_name": "Platycercus elegans",
+        "native_region": "Australia",
+        "description": "The Crimson Rosella is a colorful parrot native to eastern and southeastern Australia.",
+        "plumage": "Mainly red with blue cheeks, white patches on wings, and black tail feathers.",
+        "traits": ["Beautiful plumage", "Curious", "Active"],
+        "popularity_as_pet": "Moderate"
+    },
+    "Eclectus Parrot": {
+        "scientific_name": "Eclectus roratus",
+        "native_region": "New Guinea and nearby islands",
+        "description": "The Eclectus Parrot is known for its striking sexual dimorphism, with males having bright green plumage and females having red and purple plumage.",
+        "plumage": "Male: Bright green. Female: Red and purple.",
+        "traits": ["Sexually dimorphic", "Gentle", "Vocal"],
+        "popularity_as_pet": "High"
+    }
+
+
+
+
+}
+
+
+
+
